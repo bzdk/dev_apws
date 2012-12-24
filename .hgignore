@@ -1,0 +1,17 @@
+syntax: glob
+*.hgignore
+*.project
+*.orig
+*.rej
+*~
+*.mergebackup
+*.pyd
+*.pyc
+*.swp
+*.prof
+*.settings
+*.idea
+
+*settings_stage.py
+*settings_production.py
+.git
