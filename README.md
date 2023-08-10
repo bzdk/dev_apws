@@ -1,1 +1,28 @@
-# This is README
+# tgcchinese.org
+
+Data Security Management
+- Data Backup & Disaster Recovery
+Backup daily @4AM 
+Stored at CF-R2 (7 days app stack, full site data)
+Access via s3cmd
+Notified https://t.me/tgccn_9marks_backup_notifier
+- WordPress Vulnerability Monitoring
+- Server Security Operations
+
+Site Availability Management
+- Server Monitoring
+ECS Dashboard
+High CPU/Memory/Storage Alert
+- Uptime Monitoring
+https://stats.uptimerobot.com/KQoKF8D54/794881448
+http://175.178.114.107:3001/status/tgc9marks
+- Incident Response
+2 hrs daytime CST
+8 hrs nighttime CST
+
+Service Performance Management
+- Routing Quality Monitoring
+China Telecom http://175.178.114.107:59980/smokeping/?target=9MarksSites
+China Mobile http://175.178.114.107:59981/smokeping/?target=9MarksSites
+- Performance & Error Logs
+(Sentry)
