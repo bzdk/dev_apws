@@ -10,13 +10,11 @@ Notified https://t.me/tgccn_9marks_backup_notifier
 - Server Security Operations
 
 Site Availability Management
-- Server Monitoring
-ECS Dashboard
-High CPU/Memory/Storage Alert
-- Uptime Monitoring
-  - Global | https://stats.uptimerobot.com/KQoKF8D54
-  - China | http://175.178.114.107:3001/status/tgc9marks
-- Incident Response: 8 hrs
+- Server & Uptime Monitoring
+  - Server monitoring | ECS Dashboard (CPU/Memory/Storage/Network)
+  - Uptime Global | https://stats.uptimerobot.com/KQoKF8D54
+  - Uptime China | http://175.178.114.107:3001/status/tgc9marks
+- Incident Response: < 8 hrs
 
 Service Performance Management
 - Routing Quality Monitoring
