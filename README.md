@@ -14,11 +14,11 @@ Site Availability Management
 ECS Dashboard
 High CPU/Memory/Storage Alert
 - Uptime Monitoring
-https://stats.uptimerobot.com/KQoKF8D54/794881448
-http://175.178.114.107:3001/status/tgc9marks
+  - https://stats.uptimerobot.com/KQoKF8D54/794881448
+  - http://175.178.114.107:3001/status/tgc9marks
 - Incident Response
-2 hrs daytime CST
-8 hrs nighttime CST
+  - Daytime CST: 2 hrs
+  - Nighttime CST: 8 hrs
 
 Service Performance Management
 - Routing Quality Monitoring
