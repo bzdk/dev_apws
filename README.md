@@ -1,6 +1,6 @@
 # tgcchinese.org
 
-Data Security Management
+Site Security Management
 - Data Backup & Disaster Recovery
   - Backup daily @4AM 
   - Stored at CF-R2 (7 days app stack, full site data)
