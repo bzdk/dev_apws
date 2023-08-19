@@ -2,11 +2,10 @@
 
 Data Security Management
 - Data Backup & Disaster Recovery
-Backup daily @4AM 
-Stored at CF-R2 (7 days app stack, full site data)
-Access via s3cmd
-Notified https://t.me/tgccn_9marks_backup_notifier
-- WordPress Vulnerability Monitoring
+  - Backup daily @4AM 
+  - Stored at CF-R2 (7 days app stack, full site data)
+  - Access via s3cmd
+  - Notified https://t.me/tgccn_9marks_backup_notifier
 - Server Security Operations
 
 Site Availability Management
