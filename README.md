@@ -14,7 +14,7 @@ Site Availability Management
 ECS Dashboard
 High CPU/Memory/Storage Alert
 - Uptime Monitoring
-  - https://stats.uptimerobot.com/KQoKF8D54/794881448
+  - https://stats.uptimerobot.com/KQoKF8D54
   - http://175.178.114.107:3001/status/tgc9marks
 - Incident Response: 8 hrs
 
