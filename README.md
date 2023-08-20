@@ -11,8 +11,8 @@ Site Security Management
 Site Availability Management
 - Server & Uptime Monitoring
   - Server monitoring | ECS Dashboard (CPU/Memory/Storage/Network)
-  - Uptime Global | https://stats.uptimerobot.com/KQoKF8D54
-  - Uptime China | http://175.178.114.107:3001/status/tgc9marks
+  - [Uptime Global](https://stats.uptimerobot.com/KQoKF8D54)
+  - [Uptime China](https://uptime.0net.app/status/tgc9marks)
 - Incident Response: < 8 hrs
 
 Service Performance Management
